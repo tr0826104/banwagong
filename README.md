@@ -13,11 +13,11 @@
 
 | 搬瓦工优惠码           | 循环优惠百分比 |
 |---------------------|-----------|
-| BWHCCNCXVV          | 6.78%     |  [访问官网](https://bwh81.net/aff.php?aff=74518) |
-| ireallyreadtheterms8 | 5.5%      | [访问官网](https://bwh81.net/aff.php?aff=74518) |
-| ireadtheterms8       | 4.4%      | [访问官网](https://bwh81.net/aff.php?aff=74518) |
-| BWHWYWWYVY           | 5.96%     | [访问官网](https://bwh81.net/aff.php?aff=74518) |
-| BWHZCCWCCZ           | 5.8%      | [访问官网](https://bwh81.net/aff.php?aff=74518) |
+| BWHCCNCXVV          | 6.78%     | 
+| ireallyreadtheterms8 | 5.5%      |
+| ireadtheterms8       | 4.4%      |
+| BWHWYWWYVY           | 5.96%     |
+| BWHZCCWCCZ           | 5.8%      |
 
 
 
@@ -69,24 +69,24 @@
 
 | 方案 | 内存 | CPU | 硬盘 | 流量/月 | 带宽 | 机房 | 价格 | 购买 |
 |---|---|---|---|---|---|---|---|---|
-| **CN2 常规方案（CN2 GT）** |  |  |  |  |  |  |  |  |
-| CN2 (最便宜) | 1GB | 1核 | 20GB | 1TB | 1Gbps | DC3 CN2, DC8 ZNET, DC2 QNET, DC4 MCOM, 弗里蒙特 FMT, 新泽西 USNJ, 纽约 USNY_2, 荷兰 EUNL_3, 加拿大 CABC_1 | $49.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=57) |
+| **CN2 常规方案（CN2 GT）** |  |  |  |  |  | DC3 CN2, DC8 ZNET, DC2 QNET, DC4 MCOM, 弗里蒙特 FMT, 新泽西 USNJ, 纽约 USNY_2, 荷兰 EUNL_3, 加拿大 CABC_1 | $49.99/年 |  |  |
+| CN2 (最便宜) | 1GB | 1核 | 20GB | 1TB | 1Gbps |  | [购买](https://bwh81.net/aff.php?aff=74518&pid=57) |
 | CN2 | 2GB | 1核 | 40GB | 2TB | 1Gbps | - | $52.99/半年<br>$99.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=58) |
 | CN2 | 4GB | 2核 | 80GB | 3TB | 1Gbps | - | $59.99/季度<br>$199.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=59) |
 | CN2 | 8GB | 2核 | 160GB | 5TB | 1Gbps | - | $39.99/月<br>$399.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=67) |
 | CN2 | 16GB | 3核 | 320GB | 8TB | 1Gbps | - | $79.99/月<br>$799.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=68) |
 | CN2 HIBW1 | 16GB | 3核 | 320GB | 12TB | 1Gbps | - | $99.99/月<br>$999.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=106) |
 | CN2 HIBW2 | 16GB | 3核 | 320GB | 16TB | 1Gbps | - | $129.99/月<br>$1299.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=107) |
-| **CN2 GIA ECOMMERCE 方案（DC6 CN2 GIA-E）** |  |  |  |  |  |  |  |  |
-| CN2 GIA-E (最推荐) | 1GB | 2核 | 20GB | 1TB | 2.5Gbps | DC6 CN2 GIA-E, DC9 CN2 GIA, 日本软银 JPOS_1, 荷兰 EUNL_9, 加拿大 CN2 GIA, DC3 CN2, DC8 ZNET, DC2 QNET, DC4 MCOM, 弗里蒙特 FMT, 新泽西 USNJ, 纽约 USNY_2, 荷兰 EUNL_3, 加拿大 CABC_1 | $49.99/季度<br>$169.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=87) |
+| **CN2 GIA ECOMMERCE 方案（DC6 CN2 GIA-E）** |  |  |  |  |  | DC6 CN2 GIA-E, DC9 CN2 GIA, 日本软银 JPOS_1, 荷兰 EUNL_9, 加拿大 CN2 GIA, DC3 CN2, DC8 ZNET, DC2 QNET, DC4 MCOM, 弗里蒙特 FMT, 新泽西 USNJ, 纽约 USNY_2, 荷兰 EUNL_3, 加拿大 CABC_1 | $49.99/季度<br>$169.99/年 |  |  |
+| CN2 GIA-E (最推荐) | 1GB | 2核 | 20GB | 1TB | 2.5Gbps |  | [购买](https://bwh81.net/aff.php?aff=74518&pid=87) |
 | CN2 GIA-E | 2GB | 3核 | 40GB | 2TB | 2.5Gbps | - | $89.99/季度<br>$299.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=88) |
 | CN2 GIA-E | 4GB | 4核 | 80GB | 3TB | 2.5Gbps | - | $56.99/月<br>$549.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=89) |
 | CN2 GIA-E | 8GB | 6核 | 160GB | 5TB | 5Gbps | - | $86.99/月<br>$879.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=90) |
 | CN2 GIA-E | 16GB | 8核 | 320GB | 8TB | 5Gbps | - | $159.99/月<br>$1599.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=91) |
 | CN2 GIA-E | 32GB | 10核 | 640GB | 10TB | 10Gbps | - | $289.99/月<br>$2759.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=92) |
 | CN2 GIA-E | 64GB | 12核 | 1280GB | 12TB | 10Gbps | - | $549.99/月<br>$5399.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=93) |
-| **DUBAI ECOMMERCE 阿联酋迪拜方案** |  |  |  |  |  |  |  |  |
-| DUBAI | 1GB | 2核 | 20GB | 0.5TB | 1Gbps | 迪拜 AEDXB_1, DC6 CN2 GIA-E, DC9 CN2 GIA, 日本软银 JPOS_1, 荷兰 EUNL_9, DC3 CN2, DC8 ZNET, DC2 QNET, DC4 MCOM, 弗里蒙特 FMT, 新泽西 USNJ, 纽约 USNY_2, 荷兰 EUNL_3, 加拿大 CABC_1 | $19.99/月<br>$169.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=114) |
+| **DUBAI ECOMMERCE 阿联酋迪拜方案** |  |  |  |  |  | 迪拜 AEDXB_1, DC6 CN2 GIA-E, DC9 CN2 GIA, 日本软银 JPOS_1, 荷兰 EUNL_9, DC3 CN2, DC8 ZNET, DC2 QNET, DC4 MCOM, 弗里蒙特 FMT, 新泽西 USNJ, 纽约 USNY_2, 荷兰 EUNL_3, 加拿大 CABC_1 | $19.99/月<br>$169.99/年 |  |  |
+| DUBAI | 1GB | 2核 | 20GB | 0.5TB | 1Gbps |  | [购买](https://bwh81.net/aff.php?aff=74518&pid=114) |
 | DUBAI | 2GB | 3核 | 40GB | 1TB | 1Gbps | - | $32.99/月<br>$299.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=115) |
 | DUBAI | 4GB | 4核 | 80GB | 2TB | 1Gbps | - | $56.99/月<br>$549.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=116) |
 | DUBAI | 8GB | 6核 | 160GB | 3TB | 1Gbps | - | $86.99/月<br>$879.99/年 | [购买](https://bwh81.net/aff.php?aff=74518&pid=117) |
